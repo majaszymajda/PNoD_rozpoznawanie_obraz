@@ -1,1 +1,5 @@
-# PNoD_rozpoznawanie_twarzy
+# PNoD_rozpoznawanie_obrazów
+# Introduction
+# Methods
+# Results
+# Usage
